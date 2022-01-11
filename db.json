@@ -1,7 +1,7 @@
 {
   "user": [
-    { "id": 1, "name": "Menor", "password": "123456789", "role": "admin" },
-    { "id": 2, "name": "Juan", "password": "123456", "role": "user" }
+    { "id": 1, "name": "Menor", "password": "123456789", "role": "admin", "img": "https://i.imgur.com/w58l2Tq.jpeg" },
+    { "id": 2, "name": "Juan", "password": "123456", "role": "user",  "img": "https://i.imgur.com/jc9lo4w.jpeg" }
   ],
   "card": [
     { "id": 1, "card_name": "Visa", "card_number": "4903 4905 4911 4936" },

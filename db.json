@@ -1,12 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "user": [
+    { "id": 1, "name": "Menor", "password": "123456789"  },
+    { "id": 1, "name": "Juan", "password": "123456"  }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "card": [
+    { "id": 1, "card_name": "Visa", "card_number": "4903-4905-4911-4936" }
+    { "id": 1, "card_name": "Master Card", "card_number": "4903-3964-4853-4936" },
+    { "id": 1, "card_name": "Visa", "card_number": "4903-1235-4911-4936" },
+    { "id": 1, "card_name": "Master Card", "card_number": "4903-3965-9645-4936" }
   ],
   "profile": {
     "name": "typicode"

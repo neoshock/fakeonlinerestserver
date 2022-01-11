@@ -4,10 +4,10 @@
     { "id": 1, "name": "Juan", "password": "123456"  }
   ],
   "card": [
-    { "id": 1, "card_name": "Visa", "card_number": "4903-4905-4911-4936" },
-    { "id": 1, "card_name": "Master Card", "card_number": "4903-3964-4853-4936" },
-    { "id": 1, "card_name": "Visa", "card_number": "4903-1235-4911-4936" },
-    { "id": 1, "card_name": "Master Card", "card_number": "4903-3965-9645-4936" }
+    { "id": 1, "card_name": "Visa", "card_number": "4903 4905 4911 4936" },
+    { "id": 1, "card_name": "Master Card", "card_number": "4903 3964 4853 4936" },
+    { "id": 1, "card_name": "Visa", "card_number": "4903 1235 4911 4936" },
+    { "id": 1, "card_name": "Master Card", "card_number": "4903 3965 9645 4936" }
   ],
   "profile": {
     "name": "typicode"

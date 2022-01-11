@@ -1,7 +1,7 @@
 {
   "user": [
-    { "id": 1, "name": "Menor", "password": "123456789"  },
-    { "id": 2, "name": "Juan", "password": "123456"  }
+    { "id": 1, "name": "Menor", "password": "123456789", "role": "admin" },
+    { "id": 2, "name": "Juan", "password": "123456", "role": "user" }
   ],
   "card": [
     { "id": 1, "card_name": "Visa", "card_number": "4903 4905 4911 4936" },

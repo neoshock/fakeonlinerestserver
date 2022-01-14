@@ -1,9 +1,16 @@
 {
   "user": [
     { "id": 1, "name": "Menor", "password": "123456789", "role": "admin", "img": "https://i.imgur.com/w58l2Tq.jpeg", 
-    "items": {"name": "Item 1"},{"name": "Item 2"},{"name": "Item 3"}},
+    "items": [
+        {"name": "Item 1"},
+        {"name": "Item 2"},
+        {"name": "Item 3"}
+    ]},
     { "id": 2, "name": "Juan", "password": "123456", "role": "user",  "img": "https://i.imgur.com/jc9lo4w.jpeg", 
-    "items": {"name": "Item 1"},{"name": "Item 2"}}
+    "items": [
+        {"name": "Item 1"},
+        {"name": "Item 2"}
+    ]}
   ],
   "card": [
     { "id": 1, "card_name": "Visa", "card_number": "4903 4905 4911 4936" },

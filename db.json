@@ -17,7 +17,12 @@
     { "id": 2, "card_name": "Visa", "card_number": "4903 4905 4911 4936" },
     { "id": 3, "card_name": "Visa", "card_number": "4903 4905 4911 4936" }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "files": [
+    {"id": 1, "filename": "Fichero 1", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "link":"https://firebasestorage.googleapis.com/v0/b/inlaid-lane-281023.appspot.com/o/docs%2FAPW%20TG-1.pdf?alt=media&token=1765ce13-845e-4bb3-8751-139dc5b268af" },
+    {"id": 2, "filename": "Fichero 2", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "link":"https://firebasestorage.googleapis.com/v0/b/inlaid-lane-281023.appspot.com/o/docs%2FAPW%20TG-4.pdf?alt=media&token=32881401-3a9f-4a3d-a213-177fde4a6112" },
+    {"id": 3, "filename": "Fichero 3", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "link":"https://firebasestorage.googleapis.com/v0/b/inlaid-lane-281023.appspot.com/o/docs%2FAPW%20TI-1.pdf?alt=media&token=a4d87327-9dbb-4ea5-b1dd-246edb3afa0d" },
+    {"id": 4, "filename": "Fichero 4", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "link":"https://firebasestorage.googleapis.com/v0/b/inlaid-lane-281023.appspot.com/o/docs%2FAPW%20TI-2.pdf?alt=media&token=da36ec0e-567e-4618-ae21-fb374633bd5d" },
+    {"id": 5, "filename": "Fichero 5", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "link":"https://firebasestorage.googleapis.com/v0/b/inlaid-lane-281023.appspot.com/o/docs%2FAPW%20TI-3.pdf?alt=media&token=346adb01-3b6a-4928-8cbb-cb47a0f13616" },
+    {"id": 6, "filename": "Fichero 6", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "link":"https://firebasestorage.googleapis.com/v0/b/inlaid-lane-281023.appspot.com/o/docs%2FAPW%20TI-4.pdf?alt=media&token=84cd02f6-517f-4d6e-9299-f5981b92aeec" }
+  ]
 }

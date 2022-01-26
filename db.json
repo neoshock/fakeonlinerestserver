@@ -25,7 +25,7 @@
     {"id": 5, "filename": "Fichero 5", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.","date":"18/01/2022", "link":"https://firebasestorage.googleapis.com/v0/b/inlaid-lane-281023.appspot.com/o/docs%2FAPW%20TI-3.pdf?alt=media&token=346adb01-3b6a-4928-8cbb-cb47a0f13616" },
     {"id": 6, "filename": "Fichero 6", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.","date":"18/01/2022", "link":"https://firebasestorage.googleapis.com/v0/b/inlaid-lane-281023.appspot.com/o/docs%2FAPW%20TI-4.pdf?alt=media&token=84cd02f6-517f-4d6e-9299-f5981b92aeec" }
   ],
-  facultad: [
+  "facultad": [
     {"nombre":"Facultad de Ciencias de la Ingeniería","decano":"Ing. Washington Chiriboga Casanova","direccion":"Campus “La María” - km 7 vía Quevedo-El Empalme","telefono":"(+593) 5 3702-220 Ext. 8052","img":"https://www.uteq.edu.ec/images/about/logo_fci.jpg","lat":-1.080257,"alt":-79.501652},
     {"nombre":"Facultad de Ciencias Agropecuarias","decano":"Ing. Rolando López Tobar","direccion":"Campus “La María” - km 7 vía Quevedo-El Empalme","telefono":"(+593) 5 3702-220 Ext. 8067","img":"https://www.uteq.edu.ec/images/about/logo_fcagrop.jpg","lat":-1.080316,"alt":-79.502389},
     {"nombre":"Facultad de Ciencias de la Industria y Producción","decano":"Ing. Henry Nelson Aguilera Vidal","direccion":"Campus “La María” - km 7 vía Quevedo-El Empalme","telefono":"(+593) 5 3702-220 Ext. 8025","img":"https://www.uteq.edu.ec/images/about/logo_fcip.jpg","lat":-1.080802,"alt":-79.501709},
